@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="DELETE">
+        <active>false</active>
+        <condition_script/>
+        <description/>
+        <event_name>activate.life.cycle.migration</event_name>
+        <name>SendEmail</name>
+        <order>100</order>
+        <script/>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-22 11:01:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>535caade87f4d9105ab9873d0ebb3526</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SendEmail</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_script_action_535caade87f4d9105ab9873d0ebb3526</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-22 11:01:20</sys_updated_on>
+    </sysevent_script_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e49af159dbaeb41052dd2f17d496198b</instance_id>
+        <instance_name>dev119514</instance_name>
+        <name>sysevent_script_action_535caade87f4d9105ab9873d0ebb3526</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action"><sysevent_script_action action="INSERT_OR_UPDATE"><active>false</active><condition_script/><description/><event_name>activate.life.cycle.migration</event_name><name>SendEmail</name><order>100</order><script/><synchronous>false</synchronous><sys_class_name>sysevent_script_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-22 11:01:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>535caade87f4d9105ab9873d0ebb3526</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SendEmail</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sysevent_script_action_535caade87f4d9105ab9873d0ebb3526</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-22 11:01:20</sys_updated_on></sysevent_script_action></record_update>]]></payload>
+        <payload_hash>105850303</payload_hash>
+        <record_name>SendEmail</record_name>
+        <reverted_from/>
+        <source>77ef639b872051105ab9873d0ebb3545</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-22 11:01:20</sys_created_on>
+        <sys_id>ec8cae1e87f4d9105ab9873d0ebb35d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1822591ad480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-22 11:01:20</sys_updated_on>
+        <type>Script Action</type>
+        <update_guid>288cae1e86f4d910220b80c24bae49d9</update_guid>
+        <update_guid_history>288cae1e86f4d910220b80c24bae49d9:105850303</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-22 11:02:31</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_script_action">sysevent_script_action</sys_db_object>
+        <sys_id>455efb78889d4fc09884d6afc223b851</sys_id>
+        <sys_metadata>535caade87f4d9105ab9873d0ebb3526</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SendEmail</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sysevent_script_action_535caade87f4d9105ab9873d0ebb3526</sys_update_name>
+        <sys_update_version display_value="sysevent_script_action_535caade87f4d9105ab9873d0ebb3526">ec8cae1e87f4d9105ab9873d0ebb35d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-22 11:02:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
